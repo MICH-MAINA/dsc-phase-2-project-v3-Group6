@@ -2,3 +2,5 @@ im.db
 .ipynb_checkpoint
 *.zip
 *.zip
+*.db
+*.zip
