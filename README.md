@@ -112,7 +112,7 @@ Interpretation:
 ![alt text](image-2.png)
 
 2. History, War, Drama lead in average ratings.
-![alt text](image-3.png)
+![alt text](image-1.png)
 
 3. Animation appears near the top for both revenue and ratings.
 4. Horror underperforms on ratings and shows no significant revenue advantage after budget control.
