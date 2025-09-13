@@ -3,7 +3,7 @@
 ### **Executive Team**
 
 
-| Team Member                                | Email                               |
+|Team Member                                | Email                               |
 | --------------------------------------- | ------------------------------------------------------------------------------------ |
 | **Jeremy Onsongo** | jeremy.onsongo@student.moringaschool.com                        |
 | **Mary Okello**                          | mary.okello@student.moringaschool.com                                                                |
