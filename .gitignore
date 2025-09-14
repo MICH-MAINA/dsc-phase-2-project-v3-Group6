@@ -1,0 +1,5 @@
+# Ignore database files
+*.db
+*.db.zip
+zippedData/*.db
+zippedData/*.zip

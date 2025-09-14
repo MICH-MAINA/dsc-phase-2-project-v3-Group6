@@ -26,7 +26,7 @@ Using historical data, we modeled how **production budgets, genres, ratings, ROI
 - **Significant uplift:** *Animation* (+$76M vs others at same budget).  
 - **Top average revenue genres:** *Adventure, Animation, Sci-Fi*.  
 
-![alt text](image-6.png)
+![alt text](AllImages/image-2.png)
 
 ---
 
@@ -34,7 +34,7 @@ Using historical data, we modeled how **production budgets, genres, ratings, ROI
 - **Budget threshold effect:** Films below $71M are far more likely to fall in the *low revenue* category.  
 - High-budget films (> $71M) often yield *medium/high revenues*, depending on genre.  
 
-![alt text](image-5.png) 
+![alt text](AllImages/image-5.png)
 
 ---
 
@@ -43,7 +43,7 @@ Using historical data, we modeled how **production budgets, genres, ratings, ROI
 - **Lowest ratings:** *Horror* (−0.57 points on a 10-point scale).  
 - Genre explains little of ratings variance (R² ≈ 0.07), meaning *story, cast, and marketing* play large roles.  
 
-![alt text](image-1.png)
+![alt text](AllImages/image-1.png)
 
 ---
 
@@ -51,14 +51,14 @@ Using historical data, we modeled how **production budgets, genres, ratings, ROI
 - **Animation** stands out as the only genre with both *high ratings* and *high revenue uplift*.  
 - Prestige genres (*Drama, History, War*) earn strong ratings but don’t guarantee high revenue.  
 
-![alt text](image-2.png)
+![alt text](AllImages/image-4.png)
 ---
 
 ### 5. Which genres maximize ROI?  
 - **Top ROI performers:** *Horror (7.17x), Documentaries (4.56x)* — small budgets, high returns.  
 - **Low ROI genres:** *Fantasy (1.39x), Adventure (1.24x), Action (1.19x)* — require massive budgets but underperform unless franchise-driven.  
 
-![alt text](image.png)
+![alt text](AllImages/image-3.png)
 
 ---
 
@@ -67,7 +67,7 @@ Using historical data, we modeled how **production budgets, genres, ratings, ROI
 - **Revenue by season:** Spring has strong average grosses, Summer slightly lower despite high release volumes.  
 - **Statistical test (ANOVA):** Season significantly affects ratings (p < 0.001).  
 
-![alt text](image-7.png)
+![alt text](AllImages/image-7.png)
 
 ---
 
@@ -75,7 +75,7 @@ Using historical data, we modeled how **production budgets, genres, ratings, ROI
 - Weak but positive correlation (r ≈ 0.33).  
 - Some high-rated films earn modest revenue, and some low-rated films gross high — proving **franchises and marketing** are critical.  
 
-![alt text](image-4.png)
+![alt text](AllImages/image-6.png)
 
 ---
 
